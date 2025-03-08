@@ -1,4 +1,4 @@
-# 🎉 OMG: Das Partyspiel für Furchtlose Telegram Bot 🎲
+# 🎉 OMG: Das Partyspiel für Furchtlose Telegram Bot 🍻
 
 Welcome to the ultimate party companion! **OMG: Das Partyspiel für Furchtlose** is a Telegram bot that brings the excitement of a live party game right into your chat. Get ready to laugh, challenge your friends, and track your epic moments—all in one place.
 
