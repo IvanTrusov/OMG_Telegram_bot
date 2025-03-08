@@ -88,7 +88,7 @@ Type the names of the players separated by commas.
 Tap on the decks you want to include. Tap again to deselect, and when you're ready, click the "Done" button.
 
 **Play the Game:**
-Enjoy the randomly drawn cards prompting you to answer questions or take action! Use the interactive buttons for "Answer," "Drink," "Regenerate," "Skip Player," or "End Game" as needed.
+Enjoy the randomly drawn cards prompting you to answer questions or take action! Use the interactive buttons for "Answer," "Drink," "Play another card" or "End Game" as needed.
 
 **View Game Statistics:**
 At the end of the game, click the "Show last game's statistics" button to review detailed performance stats.
