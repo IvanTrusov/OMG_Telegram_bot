@@ -9,8 +9,6 @@ Welcome to the ultimate party companion! **OMG: Das Partyspiel für Furchtlose**
 - [Optional Actions](#optional-actions)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -75,6 +73,25 @@ Open the main.py file and replace the placeholder token with your actual Telegra
 
    ```bash
    python main.py
+
+## Usage
+**Start the Bot:**
+Open Telegram, find your bot, and type the /start command.
+
+**Select Your Language:**
+Use the inline keyboard to choose between Russian and English.
+
+**Enter Player Names:**
+Type the names of the players separated by commas.
+
+**Select Decks:**
+Tap on the decks you want to include. Tap again to deselect, and when you're ready, click the "Done" button.
+
+**Play the Game:**
+Enjoy the randomly drawn cards prompting you to answer questions or take action! Use the interactive buttons for "Answer," "Drink," "Regenerate," "Skip Player," or "End Game" as needed.
+
+**View Game Statistics:**
+At the end of the game, click the "Show last game's statistics" button to review detailed performance stats.
 
 ## Contact
 For questions, feedback, or just to say hi, please contact @SholderF on Telegram.
